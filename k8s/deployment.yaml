@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: web
-          image: elton/conversao-temperatura:v1
+          image: emmoro/conversao-temperatura:v1
           ports:
             - containerPort: 5000
 ---    
